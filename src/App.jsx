@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Countbutton from "./components/countbutton";
 import Button from "./components/Reset";
-import Title from "./components/title";
+import Title from "./components/Title";
 import Count from "./components/Count";
 
 export default function App(){

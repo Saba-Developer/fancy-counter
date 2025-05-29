@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Countbutton from "./components/countbutton";
+import Countbutton from "./components/Countbutton";
 import Button from "./components/Reset";
 import Title from "./components/Title";
 import Count from "./components/Count";
